@@ -1,3 +1,4 @@
+[I, Game & Robot_ final submission-small.pdf](https://github.com/doubleoroos/I-Game-Robot/files/9905005/I.Game.Robot_.final.submission-small.pdf)
 # I-Game-Robot
 "I, Game & Robot" is a global Web3 blockchain mobile game design challenge initiated by DeAutoDAO. We invite game planners, artists, designers, Web3 developers, engineers and other innovators to participate in designing a Web3-based robo-vehicle customization game in 6 weeks.
 
