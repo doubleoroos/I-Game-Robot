@@ -14,5 +14,5 @@ The purpose of this hackathon is to design a fun and easy-to-use robo-vehicle cu
 
     Based on real-world projects (NEV). Click here 👉 https://www.deauto.io/project to get more info about NEV
     Provide a fun game background to explore the future directions of robo-vehicles and cities
-    Provide good user experience that allows players to modularly customize robo-vehicles through the game’s function.
-<img width="738" alt="characters6" src="https://user-images.githubusercontent.com/75936918/199109823-8ad21ae9-8a8c-4c7f-8a27-f1081bf55885.png">
+    Provide good user experience that allows players to modularly customize robo-vehicles through the game’s function.<img width="416" alt="characters4" src="https://user-images.githubusercontent.com/75936918/199110004-8b839da4-e8cf-4b7c-b621-3a27ffba986e.png">
+
